@@ -2,6 +2,7 @@
 layout: default
 title: Bienvenue sur mon site !
 ---
+![Passero](files/birdy.png)
 
 # Salut, moi c'est Naxyn_ 👋
 
