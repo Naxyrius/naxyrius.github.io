@@ -1,7 +1,7 @@
 
 
 Hello there
-Here's all the my mess
+Here's all the mess
 
 ##  My Projects:
 {% for repo in site.github.public_repositories %}
@@ -9,3 +9,4 @@ Here's all the my mess
 - [{{ repo.name }}]({{ page_url }})
 {% endfor %}
 
+https://github.com/Naxyrius/tssr-linux-debian-post-install/settings
