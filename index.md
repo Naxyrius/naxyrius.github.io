@@ -5,7 +5,7 @@ title: Bienvenue sur mon site !
 
 # Salut, moi c'est Naxyn_ 👋
 
-Bienvenue sur ma page GitHub Pages ! Je suis un passionné par d'IT, de Sécu , et d'Astro (oui oui Naxyrius, c'est en lien avec Sirius, une étoile )  
+Bienvenue sur ma page GitHub Pages ! Je suis un passionné par d'IT, de Sécu , et d'IA   
 Voici une sélection de mes projets publics hébergés sur mon GitHub. Une première pierre à l'édifice !
 
 ---
