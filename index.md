@@ -6,8 +6,8 @@ title: Bienvenue sur mon site !
 
 # Salut, moi c'est Naxyn_ 👋
 
-Bienvenue sur ma page GitHub Pages ! Je suis un passionné par d'IT, de Sécu , et d'IA   
-Voici une sélection de mes projets publics hébergés sur mon GitHub. Une première pierre à l'édifice !
+Bienvenue sur ma page GitHub Pages ! Je suis un passionné d'IT, de Sécu , et d'IA   
+Voici une sélection de mes projets publics hébergés sur GitHub. Une première pierre à l'édifice !
 
 ---
 
