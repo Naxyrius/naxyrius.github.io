@@ -18,11 +18,20 @@ N'hésitez pas à explorer mes dépôts ci-dessous !
 
 ---
 
-## 🚀 Mes Projets Publics
+## 🚀 Mes Projets Publics 
 
-- [Auto-Deploy](https://github.com/Naxyrius/auto_deploy) : mes scripts de déploiement semi-auto pour gagner du temps 
+- [Auto-Deploy](https://github.com/Naxyrius/auto_deploy) : mes scripts de déploiement semi-auto pour gagner du temps :)
 - [Injection de users dans un AD](https://github.com/Naxyrius/user_injector_ad) : Script d'injection de users dans un AD, très utiles pour faire rapidement des tests
 
+
+---
+
+Et la totalités de mes repos ! 🐥
+
+{% for repo in site.github.public_repositories %}
+- [{{ repo.name }}]({{ repo.html_url }})  
+  *{{ repo.description | default: "Pas de description disponible." }}*
+{% endfor %}
 
 ---
 
