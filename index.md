@@ -27,7 +27,7 @@ Générer par SUNO AI
 </audio>
 ---
 
-## 🚀 Mes Projets Publics 
+## 💾 Mes Projets Publics 
 
 - [Auto-Deploy](https://github.com/Naxyrius/auto_deploy) : mes scripts de déploiement semi-auto pour gagner du temps 1- Déploiement d'un ADDS + OU 2- Coming Soon
 - [Injection de users dans un AD](https://github.com/Naxyrius/user_injector_ad) : Script d'injection de users dans un AD, très utiles pour faire rapidement des tests
