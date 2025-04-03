@@ -18,8 +18,9 @@ Je travaille sur divers projets, et j'apprends à scripter quelques actions pour
 N'hésitez pas à explorer mes dépôts ci-dessous !
 
 ---
-Un peu d'audio, pour apporter de l'amour dans l'IT
-Générer par SUNO AI
+Un peu d'audio, pour apporter de l'amour dans l'IT.
+
+Généré par SUNO AI
 
 <audio controls>
   <source src="files/premier-ecran.mp3" type="audio/mpeg">
