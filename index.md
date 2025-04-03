@@ -14,11 +14,12 @@ Voici une sélection de mes projets publics hébergés sur GitHub. Une première
 ## 🌟 À propos de moi
 
 Je suis actuellement étudiant en TSSR et souhaite poursuivre en AIS ! 
-Je travaille actuellement sur divers projets, et j'apprends à scripter quelques actions pour gagner du temps durant la création de mes labs
+Je travaille sur divers projets, et j'apprends à scripter quelques actions pour gagner du temps durant la création de labs
 N'hésitez pas à explorer mes dépôts ci-dessous !
 
 ---
 Un peu d'audio, pour apporter de l'amour dans l'IT
+Générer par SUNO AI
 
 <audio controls>
   <source src="files/premier-ecran.mp3" type="audio/mpeg">
